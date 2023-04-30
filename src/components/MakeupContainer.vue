@@ -31,7 +31,7 @@ export default {
   async created() {
     const res = await fetch("https://makeup-backend2.onrender.com/api");
     const data = await res.json();
-    // console.log(data);
+    console.log(data);
     this.products = data;
   },
 };
