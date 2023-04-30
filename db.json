@@ -1,0 +1,56 @@
+{"products": [{
+  "id":1,
+  "category": "foundation",
+  "name": "Fenty Beauty Pro filter Foundation",
+  "date of release": "2022-10-31T09:00:00.594Z",
+  "rating": 4.7,
+  "review" : "Excellent",
+  "price": 38.00,
+  "reformulated": false,
+  "url": "https://www.sephora.com/productimages/sku/s1925239-main-zoom.jpg?imwidth=1224"
+
+},
+{
+  "id":2,
+  "category": "foundation",
+  "name": "Rare Beauty Liquid Touch Weightless Foundation",
+  "date of release": "2022-10-31T09:00:00.594Z",
+  "rating": 4.5,
+  "review" : "Excellent",
+  "price": 30.00,
+  "reformulated": true,
+  "url": "https://www.rarebeauty.com/products/liquid-touch-weightless-foundation-1"
+},
+{
+ "id":3,
+  "category": "blush",
+  "name": "Huda Beauty GloWish Cheeky Vegan Blush Powder",
+  "date of release": "2022-10-31T09:00:00.594Z",
+  "rating": 4.7,
+  "review" : "Excellent",
+  "price": 38.00,
+  "reformulated": false,
+  "url": "https://hudabeauty.com/us/en_US/25-off-eye-and-face/glowish-cheeky-vegan-blush-powder-02-caring-coral-HB00676.html?gclid=CjwKCAjw3POhBhBQEiwAqTCuBlvg9b4BirVNGkZL_ePjpMZXcLYomb92C80WbRg_j7QccN_XvH6wDBoCSzwQAvD_BwE"
+},
+{
+  "id":4,
+  "category": "foundation",
+  "name": "Fenty Beauty Pro filter Foundation",
+  "date of release": "2022-10-31T09:00:00.594Z",
+  "rating": 4.7,
+  "review" : "Excellent",
+  "price": 38.00,
+  "reformulated": false,
+  "url": ""
+},
+{
+  "id":5,
+  "category": "Bfoundation",
+  "name": "Fenty Beauty Pro filter Foundation",
+  "date of release": "2022-10-31T09:00:00.594Z",
+  "rating": 4.7,
+  "review" : "Excellent",
+  "price": 38.00,
+  "reformulated": false,
+  "url": ""
+}]}
