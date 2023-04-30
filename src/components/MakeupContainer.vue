@@ -29,9 +29,9 @@ export default {
     MakeupComp,
   },
   async created() {
-    const res = await fetch("http://localhost:5959/api");
+    const res = await fetch("https://makeup-backend2.onrender.com/api");
     const data = await res.json();
-    console.log(data);
+    // console.log(data);
     this.products = data;
   },
 };
